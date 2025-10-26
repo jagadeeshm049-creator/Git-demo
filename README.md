@@ -1,4 +1,4 @@
 # Git-demo
-my first GitHub
+my first repo
 this is readme file
 iam adding content to it
