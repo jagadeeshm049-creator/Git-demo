@@ -6,3 +6,4 @@ adding next line in local repo
 Change in line 6 remotely
 adding 2nd line in local repo
 Change in line 8 remotely
+adding 3rd line in local repo
